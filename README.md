@@ -1,4 +1,4 @@
-shopi-danielabenencio.netlify.app
+https://shopi-danielabenencio.netlify.app
 
 
 # React + Vite
